@@ -4,8 +4,9 @@
 |  ----        |----- | ------- | ------ | ----- |
 | mqttbridge       | [mqtt.marine.ie](//mqtt.marine.ie) |   | [dm.mqtt](https://github.com/IrishMarineInstitute/dm.mqtt) TODO: rename to mqttbridge on github | This is based on [mosca](https://github.com/mcollina/mosca) |
 | compass          | [compass.dm.marine.ie](//compass.dm.marine.ie)                                 |   | [dm.compass](https://github.com/IrishMarineInstitute/dm.compass) | A website to demonstrate charts for the compass project |
+| rundeck          | [rundeck.dm.marine.ie](//rundeck.dm.marine.ie)                                 |   | [rundeck.dm](https://github.com/IrishMarineInstitute/rundeck.dm) | Admin tool for running scheduled jobs. |
 | weather          | [weather.dm.marine.ie](//weather.dm.marine.ie)                                 |   | [dm.weather](https://github.com/IrishMarineInstitute/dm.weather) | weewx with rinvile rooftop airmar |
-| dashboard        | [dashboard.sysadmin.dm.marine.ie](//dashboard.sysadmin.dm.marine.ie)           |   | [uwobs](https://github.com/IrishMarineInstitute/uwobs) |TODO: move to own project on github | 
+| dashboard        | [dashboard.sysadmin.dm.marine.ie](//dashboard.sysadmin.dm.marine.ie)           |   | [dm.dashboard](https://github.com/IrishMarineInstitute/dm.dashboard) | | 
 | streamsets       | [streamsets.dm.marine.ie](//streamsets.dm.marine.ie)                           | * | | TODO: talk to Damian about it |
 | vector           | [vector.sysadmin.dm.marine.ie](//vector.sysadmin.dm.marine.ie)                 |   | TODO: put on github | Vanilla build of vector in Docker |
 | dm               | [dm.marine.ie](//dm.marine.ie)                                                 |   | [dm](https://github.com/IrishMarineInstitute/dm) | This page |
@@ -59,6 +60,5 @@ Each is a haproxy configuration to the corresponding backend service (pcp-web). 
 
 | Service Name | Link | Notes |
 |  ----        |----- | ----- |
-| rundeck      | [rundeck](//rundeck.dm.marine.ie)                          | Need to migrate off cluster05. Big Job (RF) |
 | synology     | [synology.dm.marine.ie](//synology.dm.marine.ie)           | Does anybody use this link? Or delete it |
 | kibana       | [kibana.dm.marine.ie](//kibana.dm.marine.ie) (not working) | Need a new bigger elastic search installatin. (DS) |
