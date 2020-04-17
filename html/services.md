@@ -3,7 +3,6 @@
 | Service Name | Link | *=proxy | Source | Notes |
 |  ----        |----- | ------- | ------ | ----- |
 | mqttbridge       | [mqtt.marine.ie](//mqtt.marine.ie) |   | [dm.mqtt](https://github.com/IrishMarineInstitute/dm.mqtt) TODO: rename to mqttbridge on github | This is based on [mosca](https://github.com/mcollina/mosca) |
-| compass          | [compass.dm.marine.ie](//compass.dm.marine.ie)                                 |   | [dm.compass](https://github.com/IrishMarineInstitute/dm.compass) | A website to demonstrate charts for the compass project |
 | rundeck          | [rundeck.dm.marine.ie](//rundeck.dm.marine.ie)                                 |   | [rundeck.dm](https://github.com/IrishMarineInstitute/rundeck.dm) | Admin tool for running scheduled jobs. |
 | weather          | [weather.dm.marine.ie](//weather.dm.marine.ie)                                 |   | [dm.weather](https://github.com/IrishMarineInstitute/dm.weather) | weewx with rinvile rooftop airmar |
 | dashboard        | [dashboard.sysadmin.dm.marine.ie](//dashboard.sysadmin.dm.marine.ie)           |   | [dm.dashboard](https://github.com/IrishMarineInstitute/dm.dashboard) | | 
@@ -12,6 +11,8 @@
 | dm               | [dm.marine.ie](//dm.marine.ie)                                                 |   | [dm](https://github.com/IrishMarineInstitute/dm) | This page |
 | nodered01        | [nodered01.dm.marine.ie](//nodered01.dm.marine.ie)                             |   | TODO: put on github | Variety of flows TODO: move to separate node-red instances |
 | noderedairmar    | [noderedairmar.dm.marine.ie](//noderedairmar.dm.marine.ie)                     |   | [dm.noderedairmar](https://github.com/IrishMarineInstitute/dm.noderedairmar) | Flows for airmar weather station |
+| graphqldap    | [graphqldap.dm.marine.ie](//graphqldap.dm.marine.ie)                     |   | [Graphql-DAP](https://github.com/IrishMarineInstitute/graphql-DAP) | API V1 |
+| graphqldap-v1-examples    | [graphqldap-v1-examples.dm.marine.ie](//graphqldap-v1-examples.dm.marine.ie)                     |   | [graphqldap_v1_examples](https://github.com/IrishMarineInstitute/graphqldap_v1_examples) | V1 API examples |
 | noderedais       | [noderedais.dm.marine.ie](//noderedais.dm.marine.ie)                           |   | [dm.noderedais](https://github.com/IrishMarineInstitute/dm.noderedais) | Flows for ais |
 | noderedwavebuoys | [noderedwavebuoys.dm.marine.ie](//noderedwavebuoys.dm.marine.ie)               |   | TODO: put on github | Flows for wave buoys|
 | node-red         | [node-red.dm.marine.ie](//node-red.dm.marine.ie)                               | * | TODO: put in git | Variety of flows to be moved |
